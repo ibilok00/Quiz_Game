@@ -14,4 +14,13 @@ Welcome to the Java Quiz Game, a simple and efficient Java-based application for
 
 - **Timer**: Timer in the lower right corner counts down from 10 to 0 and signals the end of time for each question.
 
-- **Timer**: Timer in the lower right corner counts down from 10 to 0 and signals the end of time for each question.
+- **Results**: The results come at the end of each game, where it is written how many correct answers we had and the total percentage.
+
+
+## Installation
+
+```bash
+git clone https://github.com/ibilok00/Quiz_Game.git
+```
+
+- After clone, you just need to Run application on Main.java class.
