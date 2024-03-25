@@ -50,7 +50,7 @@ public class Quiz implements ActionListener {
 	int result;
 	int seconds=10;
 	
-	JFrame frame = new JFrame();
+	JFrame frame = new JFrame("Java Quiz Game");
 	JTextField textfield = new JTextField();
 	JTextArea textarea = new JTextArea();
 	JButton buttonA = new JButton();
